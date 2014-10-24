@@ -1,0 +1,31 @@
+  GimpLeapMaster.About.resources - Embedded, ContainedInManifestFile, 
+  GimpLeapMaster.GimpLeapMaster.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly GimpLeap-Master, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class GimpLeapMaster.About: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class GimpLeapMaster.GimpLeapMaster: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    removeListener(Object, EventArgs): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    Undo_Click2(Object, MouseEventArgs): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    Redo_Click2(Object, MouseEventArgs): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    MoveButton_Click2(Object, EventArgs): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    PencilButton_Click2(Object, EventArgs): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    OffButton_Click_2(Object, EventArgs): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    OnButton_Click_2(Object, EventArgs): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask

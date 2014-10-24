@@ -1,0 +1,20 @@
+﻿Build started 10/24/2014 12:48:12 AM.
+     1>Project "C:\Users\ram\Desktop\GimpLeap-Master\GimpLeap-Master\GimpLeap-Master.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         GimpLeap-Master.vcxproj -> C:\Users\ram\Desktop\GimpLeap-Master\Debug\GimpLeap-Master.exe
+       PostBuildEvent:
+         xcopy /yr "..\lib\x86\Leapd.dll" "C:\Users\ram\Desktop\GimpLeap-Master\Debug\"
+         xcopy /yr "..\lib\x86\msvcp120d.dll" "C:\Users\ram\Desktop\GimpLeap-Master\Debug\"
+         xcopy /yr "..\lib\x86\msvcr120d.dll" "C:\Users\ram\Desktop\GimpLeap-Master\Debug\"
+         :VCEnd
+         ..\lib\x86\Leapd.dll
+         1 File(s) copied
+         ..\lib\x86\msvcp120d.dll
+         1 File(s) copied
+         ..\lib\x86\msvcr120d.dll
+         1 File(s) copied
+     1>Done Building Project "C:\Users\ram\Desktop\GimpLeap-Master\GimpLeap-Master\GimpLeap-Master.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.31
